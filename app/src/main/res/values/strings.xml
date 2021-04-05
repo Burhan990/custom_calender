@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Nook Life</string>
+    <string name="title_activity_log_in">LogInActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="join_a_registered_business">Join a registered business</string>
+    <string name="register_a_free_business_account">Register a free business account</string>
+    <string name="log_in">Log in</string>
+    <string name="nook_life">Nook Life for Easy Life</string>
+    <string name="phone">Phone number</string>
+    <string name="checkbox_text">I agree to the privacy policy, terms and conditions</string>
+    <string name="allrightreserve">\@ All right reserve nooklife</string>
+    <string name="alreadyText">Already have an account?</string>
+    <string name="singIn">Sign in now</string>
+    <string name="signUp">Sign up</string>
+    <string name="donthave">don\'t have a business account?</string>
+    <string name="signUpbusiness">Sign up your business</string>
+    <string name="enter_your_registered_login_email_address_to_recieve_a_secure_link_to_set_a_new_password">Enter your registered login email address to recieve a secure link to set a new password</string>
+    <string name="reset_your_password">Reset your password</string>
+    <string name="sendlink">Send link to reset</string>
+    <string name="dontreset">Don\'t want to reset password?</string>
+    <string name="gotoLogin">Go to log in</string>
+</resources>

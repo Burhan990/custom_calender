@@ -1,0 +1,15 @@
+{
+  "test": {
+    "EngageApiKey" : "3ab10e6e-5072-483a-8908-6d2b69602b42",
+    "EngagePushConfig" : "uae",
+    "EngageEndpoint" : "https://api.engage-ae.com"
+  },
+  "production": {
+    "EngageApiKey" : "3ab10e6e-5072-483a-8908-6d2b69602b42",
+    "EngagePushConfig" : "uae",
+    "EngageEndpoint" : "https://api.engage-ae.com"
+  },
+  "EngageChallengeType" : "push",
+  "CleanTaskInterval": 15,
+  "ConfigVersion": 0.1
+}
